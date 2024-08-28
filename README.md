@@ -6,3 +6,11 @@ With this data manipulation and visualization, we can gain a more focused view o
 
 Some examples of areas that can benefit are: planning, marketing, sales team, CX, CS, and so on. The analysis can also assist in the scope of meetings with management and in the creation of dashboards for tracking key indicators
 
+## Instructions
+
+To use the code, you will need to open the notebook in an IDE like Spyder or VS Code. If you prefer, you can also open it directly in Google Colab.
+
+The CSV file will be read directly from the file available on my GitHub, so there will be no need to download the file to your hard drive for reading
+
+I hope you enjoy the work!
+
